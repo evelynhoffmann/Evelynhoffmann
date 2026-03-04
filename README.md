@@ -1,5 +1,4 @@
-# Oie, me chamo Evelyn Hoffmann! 👋
-
+# <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0066FF&width=600&lines=Oie,+me+chamo+Evelyn+Hoffmann!+👋" alt="Typing SVG" /></a> </p>
 <table>
   <tr>
     <td>
