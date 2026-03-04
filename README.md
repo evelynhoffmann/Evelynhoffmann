@@ -1,4 +1,13 @@
-# <p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=0066FF&width=600&lines=Oie,+me+chamo+Evelyn+Hoffmann!+👋" alt="Typing SVG" /></a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0066FF&height=150&section=header&text=Evelyn%20Hoffmann&fontSize=50&animation=fadeIn&fontAlignY=35"  width="100%" />
+</p>
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0066FF&width=800&lines=Oie,+me+chamo+Evelyn+Hoffmann!" alt="Typing SVG" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td>
