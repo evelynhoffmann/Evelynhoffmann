@@ -18,10 +18,15 @@
   </tr>
 </table>
 
-### 🛠️ Tecnologias e Skills
-- [cite_start]**Linguagens:** JavaScript, HTML5, CSS3[cite: 34].
-- [cite_start]**Frameworks/Tools:** Angular (Básico), Java, Spring Boot, Git[cite: 35, 36, 37].
-- [cite_start]**Automação e Design:** Power Automate, Excel, Power BI e Figma[cite: 38, 40, 41].
+### 🛠️ Technologies and Skills
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![PowerAutomate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft-power-automate&logoColor=white)
 
 ---
 
