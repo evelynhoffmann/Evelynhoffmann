@@ -13,7 +13,7 @@
       📍 Brasília - DF.
     </td>
     <td>
-      <img src=""https://raw.githubusercontent.com/evelynhoffmann/Evelynhoffmann/main/gato-digitando.gif" width="250" alt="Gatinho programando">
+      <img src="https://raw.githubusercontent.com/evelynhoffmann/Evelynhoffmann/main/gato-digitando.gif" width="250" alt="Gatinho programando">
     </td>
   </tr>
 </table>
