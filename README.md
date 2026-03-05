@@ -1,4 +1,6 @@
-# <p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0066FF&vCenter=true&width=600&lines=Oie,+me+chamo+Evelyn+Hoffmann!" alt="Evelyn Hoffmann" /></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
+<br>
+ <p align="left"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0066FF&vCenter=true&width=600&lines=Oie,+me+chamo+Evelyn+Hoffmann!" alt="Evelyn Hoffmann" /></p>
 
 <table>
   <tr>
