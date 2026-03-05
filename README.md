@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <h3>👩‍💻 Sobre Mim</h3>
+      <h3> 🐱‍💻Sobre Mim</h3>
       Estudante de <b>Engenharia de Software</b> (8° semestre) no IESB. 
       Atualmente sou estagiária no <b>Senado Federal</b>, atuando com automação no Power Automate e análise de dados. 
       Tenho experiência prévia no INSS com suporte de TI e análise de indicadores.
